@@ -14,7 +14,8 @@ existing person.
 
 ### Prerequisites
 
-Nodejs version: "14.15.3"
+* Nodejs version: "14.15.3"
+* MongoDB
 
 ### Getting Started
 
